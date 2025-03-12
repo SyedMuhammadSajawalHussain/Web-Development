@@ -25,4 +25,4 @@ This repository contains HTML files for practicing various concepts. Below is a 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SyedMuhammadSajawalHussain/your-repo-name.git
+   git clone https://github.com/SyedMuhammadSajawalHussain/Web-Development.git
